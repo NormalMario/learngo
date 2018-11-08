@@ -32,7 +32,7 @@ import "fmt"
 // ---------------------------------------------------------
 
 func main() {
-	// uncomment the code below
+	// uncomment and edit the code below
 	// name := "and get the name from the command-line"
 
 	// replace and concatenate the `name` variable
