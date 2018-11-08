@@ -16,7 +16,7 @@ import (
 // ---------------------------------------------------------
 // EXERCISE: Improved Banger
 //
-//  Change the Banger program the work with Unicode
+//  Change the Banger program to work with Unicode
 //  characters.
 //
 // INPUT
